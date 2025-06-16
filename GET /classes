@@ -1,0 +1,5 @@
+
+Optional query parameter:
+- `timezone`: Timezone to display class times in (default: IST)
+
+### Create a booking
